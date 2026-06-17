@@ -1,0 +1,7 @@
+.env.local
+.next/
+node_modules/
+out/
+*.tsbuildinfo
+# explicitly track lockfile despite global gitignore
+!package-lock.json
