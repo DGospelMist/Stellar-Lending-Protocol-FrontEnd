@@ -1,8 +1,8 @@
 # Stellar Lending UI
 
-Frontend for the [Stellar Lending Protocol](https://github.com/Savy-s-Gospel-Tech/Stellar_Lending_Protocol) — a decentralised, non-custodial lending protocol built on Stellar using Soroban smart contracts.
+Frontend for the [Stellar Lending Protocol](https://github.com/DGospelMist/Stellar-Lending-Protocol-FrontEnd.git) — a decentralised, non-custodial lending protocol built on Stellar using Soroban smart contracts.
 
-> **Status:** Scaffold — UI structure and component skeletons are in place. Core functionality is open for contributors via [Drips Wave](https://drips.network/wave/stellar).
+> **Status:** Scaffold — UI structure and component skeletons are in place. Core functionality is open for contributors.
 
 ---
 
@@ -52,7 +52,7 @@ types/index.ts          # TypeScript types mirroring on-chain structs ✅
 ## Getting Started
 
 ```bash
-git clone https://github.com/Savy-s-Gospel-Tech/stellar-lending-ui
+git clone https://github.com/DGospelMist/Stellar-Lending-Protocol-FrontEnd.git
 cd stellar-lending-ui
 npm install
 cp .env.example .env.local
@@ -62,7 +62,6 @@ npm run dev
 
 ---
 
-## Open Issues (Drips Wave Bounties)
 
 These are the contributor issues. Each has a clear scope and acceptance criteria in the source file.
 
@@ -79,12 +78,10 @@ Each `TODO` comment in the source files references the issue number and lists ex
 
 ## Contract Addresses
 
-Set in `.env.local` — see `.env.example`. Contracts are deployed from the [Stellar Lending Protocol](https://github.com/Savy-s-Gospel-Tech/Stellar_Lending_Protocol) repo.
+Set in `.env.local` — see `.env.example`. Contracts are deployed from the [Stellar Lending Protocol](https://github.com/DGospelMist/Stellar-Lending-Protocol-FrontEnd.git) repo.
 
 ---
 
 ## Contributing
 
-This project participates in the **Stellar Wave** program on [Drips](https://drips.network/wave/stellar). Issues tagged `Stellar Wave` are bounty-eligible.
-
-See the [protocol CONTRIBUTING.md](https://github.com/Savy-s-Gospel-Tech/Stellar_Lending_Protocol/blob/main/CONTRIBUTING.md) for code standards and commit style.
+See the [protocol CONTRIBUTING.md](https://github.com/DGospelMist/Stellar-Lending-Protocol-FrontEnd.git) for code standards and commit style.
