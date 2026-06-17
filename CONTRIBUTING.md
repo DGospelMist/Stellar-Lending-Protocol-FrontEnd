@@ -1,10 +1,11 @@
 # Contributing to Stellar Lending UI
 
-Thanks for your interest! This project runs on the **Stellar Wave** program via [Drips](https://drips.network/wave) — contributors earn on-chain rewards for merged PRs.
+Thanks for your interest!
 
 ## Quick Start
 
 ```bash
+git clone https://github.com/DGospelMist/Stellar-Lending-Protocol-FrontEnd.git
 cd Stellar-lending-ui
 npm install
 cp .env.example .env.local
